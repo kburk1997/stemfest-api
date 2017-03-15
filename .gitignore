@@ -90,3 +90,4 @@ ENV/
 
 #Ignore secret key
 stemfest_api/stemfest_api/settings_secret.py
+stemfest_api/db.sqlite3
