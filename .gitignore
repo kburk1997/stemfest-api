@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#Ignore secret key
+stemfest_api/stemfest_api/settings_secret.py
