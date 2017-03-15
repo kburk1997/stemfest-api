@@ -1,1 +1,1 @@
-default_app_config='services.apps.ServiceConfig'
+#default_app_config='services.apps.ServiceConfig'
